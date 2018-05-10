@@ -1,0 +1,14 @@
+C:\Users\maria.jones\source\repos\IfStatements\IfStatements\bin\Debug\IfStatements.exe.config
+C:\Users\maria.jones\source\repos\IfStatements\IfStatements\bin\Debug\IfStatements.exe
+C:\Users\maria.jones\source\repos\IfStatements\IfStatements\bin\Debug\IfStatements.pdb
+C:\Users\maria.jones\source\repos\IfStatements\IfStatements\obj\Debug\IfStatements.csprojResolveAssemblyReference.cache
+C:\Users\maria.jones\source\repos\IfStatements\IfStatements\obj\Debug\IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\maria.jones\source\repos\IfStatements\IfStatements\obj\Debug\IfStatements.exe
+C:\Users\maria.jones\source\repos\IfStatements\IfStatements\obj\Debug\IfStatements.pdb
+C:\Training\c#Course\IfStatements\IfStatements\bin\Debug\IfStatements.exe.config
+C:\Training\c#Course\IfStatements\IfStatements\bin\Debug\IfStatements.exe
+C:\Training\c#Course\IfStatements\IfStatements\bin\Debug\IfStatements.pdb
+C:\Training\c#Course\IfStatements\IfStatements\obj\Debug\IfStatements.csprojResolveAssemblyReference.cache
+C:\Training\c#Course\IfStatements\IfStatements\obj\Debug\IfStatements.csproj.CoreCompileInputs.cache
+C:\Training\c#Course\IfStatements\IfStatements\obj\Debug\IfStatements.exe
+C:\Training\c#Course\IfStatements\IfStatements\obj\Debug\IfStatements.pdb

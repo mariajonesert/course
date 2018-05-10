@@ -1,0 +1,6 @@
+C:\Users\maria.jones\source\repos\ValueTypes\ValueTypes\bin\Debug\ValueTypes.exe.config
+C:\Users\maria.jones\source\repos\ValueTypes\ValueTypes\bin\Debug\ValueTypes.exe
+C:\Users\maria.jones\source\repos\ValueTypes\ValueTypes\bin\Debug\ValueTypes.pdb
+C:\Users\maria.jones\source\repos\ValueTypes\ValueTypes\obj\Debug\ValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\maria.jones\source\repos\ValueTypes\ValueTypes\obj\Debug\ValueTypes.exe
+C:\Users\maria.jones\source\repos\ValueTypes\ValueTypes\obj\Debug\ValueTypes.pdb
